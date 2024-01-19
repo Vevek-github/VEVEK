@@ -1,6 +1,6 @@
 # VEVEK
 <h1 align="center">Hi 👋, I'm K Vevek</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h3 align="center">A passionate data Enthusiast from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
